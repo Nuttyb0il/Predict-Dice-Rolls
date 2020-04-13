@@ -1,5 +1,5 @@
 # Dice Roll Predictor
-A simple TensorFlow projet to predict Dice Rolls
+A simple Keras & TensorFlow projet to predict Dice Rolls
 
 
 ## How to use
